@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tik Tak Toe</string>
+    <string name="tik_tak_toe">Tik Tak Toe</string>
+    <string name="gride">our main gride</string>
+    <string name="zero_img">zero_iamges</string>
+    <string name="thired_zero">tzero</string>
+    <string name="fzero">fzero</string>
+    <string name="x_s_turn">X\'S TURN..</string>
+</resources>
